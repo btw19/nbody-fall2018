@@ -1,3 +1,4 @@
+/Body.class
 /NBody.class
 /StdAudio.class
 /StdDraw.class
@@ -9,4 +10,3 @@
 /TestReadBodies.class
 /TestReadRadius.class
 /TestUpdate.class
-/Body.class
